@@ -1,0 +1,4 @@
+http://example.com/Link/index.html
+http://example.com/Home/index.html
+http://example.com/2022/10/25/hello-world/
+http://example.com/
