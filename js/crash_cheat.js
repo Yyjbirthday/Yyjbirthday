@@ -8,7 +8,7 @@ var OriginTitle = document.title;
      }
      else {
          $('[rel="icon"]').attr('href', "/favicon.ico");
-         document.title = ' ( ๑•̀ㅂ•́) ✧不要再离开我啊～';
+         document.title = ' ( ๑•̀ㅂ•́) ✧不要再离开我了啊～';
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
